@@ -1,7 +1,5 @@
 body {
-  background-color: #c3c388;
-  margin-left: auto;
-  margin-right: auto;
+  background-color: #bebe9d;
 
 }
 
@@ -10,12 +8,11 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 60%;
-
-h1 {
-  text-align: center;
-  color: #005522;
 }
 
-h2 {
+.center {
   text-align: center;
+  color: #228080;
+}
+
 }
